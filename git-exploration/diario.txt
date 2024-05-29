@@ -1,3 +1,0 @@
-Estoy explorando Git
-Aprendiendo a hacer commits
-Pronto aprenderemos las ramas
